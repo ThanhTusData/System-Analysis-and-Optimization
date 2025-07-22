@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.py[cod]
+*.log
+.vscode/
+.ipynb_checkpoints/
+saved_models/
+saved_models_final/
+catboost_info/
+Untitled-Copy1.ipynb
